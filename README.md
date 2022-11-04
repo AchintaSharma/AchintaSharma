@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AchintaSharma
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning the MERN Stack
-- 💞️ I’m looking to collaborate on Begineer Level Js projects
-- 📫 How to reach me : 23achinta@gmail.com
+- 👀 I’m pursuing Full Stack Development (MERN). I’m looking to collaborate on MERN based projects
+- 🌱 I mostly work in Javascript but also with Python for my Raspberry Pi IoT projects.
+- 💞️ I am a quick learner, tech enthusiast and readily willing to learn new skills and upgrade myself as a developer.
+- 📫 How to reach me : 23achinta@gmail.com, https://www.linkedin.com/in/achinta-sharma-5ba245168/
 
 <a href="https://app.daily.dev/Achinta_Sharma"><img src="https://api.daily.dev/devcards/ae889590027046789c750695f7416a54.png?r=s70" width="400" alt="Achinta Sharma's Dev Card"/></a>
 
