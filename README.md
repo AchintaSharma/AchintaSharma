@@ -9,11 +9,11 @@
 - QT (QML)
 - Python, Raspberry Pi for IoT projects
 
-- 💞️ DevOps & AWS Expertise: I have a solid foundation in AWS cloud services and DevOps practices, continuously improving my proficiency in cloud-based solutions and scalable architectures.
+💞️ DevOps & AWS Expertise: I have a solid foundation in AWS cloud services and DevOps practices, continuously improving my proficiency in cloud-based solutions and scalable architectures.
 
-- 🌱 Continuous Learning: I am a quick learner, always upgrading my skills as a developer, and staying up-to-date with the latest technologies.
+🌱 Continuous Learning: I am a quick learner, always upgrading my skills as a developer, and staying up-to-date with the latest technologies.
 
-- 📫 You can reach me at 23achinta@gmail.com or https://www.linkedin.com/in/achinta-sharma-5ba245168/
+📫 You can reach me at 23achinta@gmail.com or https://www.linkedin.com/in/achinta-sharma-5ba245168/
 <a href="https://app.daily.dev/Achinta_Sharma"><img src="https://api.daily.dev/devcards/ae889590027046789c750695f7416a54.png?r=s70" width="400" alt="Achinta Sharma's Dev Card"/></a>
 
 <!---
