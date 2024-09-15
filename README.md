@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Achinta Sharma, a full stack developer with expertise in MERN stack and other web technologies.
-- 👀 I have experience working with JavaScript, TypeScript, Node, Express, React, and MySQL. I also enjoy creating IoT projects using Python and Raspberry Pi.
-- 🌱 I am a quick learner, a tech enthusiast, and always eager to learn new skills and upgrade myself as a developer.
-- 💞️ I have a good amount of knowledge of AWS and DevOps practices and I have been working on them to improve them further.
-- I have an extensive experience in communication with LLMs and generative AI and I use them regularly to expedite my work.
-- 📫 You can reach me at 23achinta@gmail.com or https://www.linkedin.com/in/achinta-sharma-5ba245168/
+👋 Hi, I’m Achinta Sharma: A full stack developer with expertise in MERN stack and other web technologies.
 
+👀 Technologies I work with:
+JavaScript, TypeScript
+Node.js, Express
+React.js
+MySQL, Prisma
+MongoDB, Mongoose
+QT (QML)
+Python, Raspberry Pi for IoT projects
+💞️ DevOps & AWS Expertise: I have a solid foundation in AWS cloud services and DevOps practices, continuously improving my proficiency in cloud-based solutions and scalable architectures.
+🌱 Continuous Learning: I am a quick learner, always upgrading my skills as a developer, and staying up-to-date with the latest technologies.
+- 📫 You can reach me at 23achinta@gmail.com or https://www.linkedin.com/in/achinta-sharma-5ba245168/
 <a href="https://app.daily.dev/Achinta_Sharma"><img src="https://api.daily.dev/devcards/ae889590027046789c750695f7416a54.png?r=s70" width="400" alt="Achinta Sharma's Dev Card"/></a>
 
 <!---
