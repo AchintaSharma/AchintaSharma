@@ -14,6 +14,7 @@
 🌱 Continuous Learning: I am a quick learner, always upgrading my skills as a developer, and staying up-to-date with the latest technologies.
 
 📫 You can reach me at 23achinta@gmail.com or https://www.linkedin.com/in/achinta-sharma-5ba245168/
+
 <a href="https://app.daily.dev/Achinta_Sharma"><img src="https://api.daily.dev/devcards/ae889590027046789c750695f7416a54.png?r=s70" width="400" alt="Achinta Sharma's Dev Card"/></a>
 
 <!---
